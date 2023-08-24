@@ -1,0 +1,20 @@
+Nome: Michel
+Idade: 39
+Gênero: masculino
+Já testemunhou atos de corrupção? - s
+Já sofreu exclusão ou discriminação devido à sua condição socioeconômica? - n
+Já enfrentou discriminação por conta da religião ou crenças pessoais? - n
+Teve seus direitos de liberdade de expressão cerceados em um contexto político ou social? - s
+
+
+
+Nome: Rodrigo
+Idade: 19
+Gênero: masculino
+Já testemunhou atos de corrupção? - s
+Já sofreu exclusão ou discriminação devido à sua condição socioeconômica? - n
+Já enfrentou discriminação por conta da religião ou crenças pessoais? - n
+Teve seus direitos de liberdade de expressão cerceados em um contexto político ou social? - n
+
+
+
